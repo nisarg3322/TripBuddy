@@ -1,7 +1,10 @@
 # TripBuddy
 
-![TripBuddy Logo](link/to/logo.png)
-
+<p align="center">
+  <img src="https://github.com/nisarg3322/TripBuddy/blob/master/ScreenShots/Screenshot_20231227_003410_TripBuddy.jpg?raw=true" alt="Screenshot 1" width="200" style="margin-right: 10px"/>
+  <img src="https://github.com/nisarg3322/TripBuddy/blob/master/ScreenShots/Screenshot_20231227_003436_TripBuddy.jpg?raw=true" alt="Screenshot 2" width="200" style="margin-right: 10px"/>
+  <img src="https://github.com/nisarg3322/TripBuddy/blob/master/ScreenShots/Screenshot_20231227_003520_TripBuddy.jpg?raw=true" alt="Screenshot 3" width="200"/>
+</p>
 ## Overview
 
 TripBuddy is an Automated Trip Planning Android app designed to enhance road safety and elevate the overall travel experience. The project focuses on personalized rest-stop suggestions at user-defined intervals, with the goal of optimizing road safety by 50%.
